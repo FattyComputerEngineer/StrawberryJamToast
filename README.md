@@ -13,8 +13,8 @@
 毫無功能，簡單到我不知道要寫什麼。
 
 ## 一鍵下載安裝
-- [Windows](https://github.com/YourName/StrawberryJamToast/releases/download/v1.0/StrawberryJamToast.exe)  
-- [macOS](https://github.com/YourName/StrawberryJamToast/releases/download/v1.0/StrawberryJamToast.app.zip)
+- [Windows](https://github.com/FattyComputerEngineer/StrawberryJamToast/releases/download/v1.0/StrawberryJamToast.app.zip)  
+- [macOS](https://github.com/FattyComputerEngineer/StrawberryJamToast/releases/download/v1.0/StrawberryJamToast.app.zip)
 
 下載對應版本後雙擊打開即可。（防毒可能會阻擋，忽略即可）  
 
