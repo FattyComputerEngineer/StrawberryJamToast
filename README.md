@@ -1,7 +1,7 @@
 <div align="center">
   <h1>StrawberryJamToast</h1>
   
-  <img src="https://drive.google.com/file/d/13jlh-1gOUthRIDanTcqVIlUhXWG9xfMX/view?usp=sharing" 
+  <img src="https://drive.google.com/uc?id=13jlh-1gOUthRIDanTcqVIlUhXWG9xfMX" 
        alt="StrawberryJamToast" 
        width="560" />
 </div>
