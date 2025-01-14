@@ -14,11 +14,5 @@
 
 ## 一鍵下載安裝
 - [Windows](https://github.com/FattyComputerEngineer/StrawberryJamToast/releases/download/v1.0/StrawberryJamToast.exe)  
-- [macOS](https://github.com/FattyComputerEngineer/StrawberryJamToast/releases/download/v1.0/StrawberryJamToast.zip)
 
-下載對應版本後雙擊打開即可。
-macOS可能需要進入設定-隱私與安全性 
-下拉找到安全性
-會看到已阻擋「StrawberryJamToast」以保護你的Mac。
-點選 ”強制打開“即可
-
+下載對應版本後雙擊打開即可。（可能會被系統阻止，忽略即可）
